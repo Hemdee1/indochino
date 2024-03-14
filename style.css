@@ -77,10 +77,6 @@ header .logo span {
   height: 30vh;
 }
 
-a {
-  color: red;
-}
-
 /* @media screen and (min-width: 1000px) {
   .hero {
     background-color: green;
